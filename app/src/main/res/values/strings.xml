@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Noted</string>
+    <string name="action_settings">Settings</string>
+    <string name="no_notes">No notes yet!\n
+    Press the add button to get started!\n
+    Swipe your notes to delete!\n
+    Long press to select notes!</string>
+</resources>
